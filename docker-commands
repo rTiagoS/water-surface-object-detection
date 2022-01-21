@@ -1,0 +1,3 @@
+sudo docker pull ultralytics/yolov5:latest
+
+docker run --ipc=host --gpus all -it -v /home/rtiagos/pprojects/self-driving-boats/dataset:/usr/src/dataset ultralytics/yolov5:latest
