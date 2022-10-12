@@ -9,3 +9,16 @@ O dataset está disponível publicamente por meio deste link: [WSOD-ARD Download
 > *password*: **wsodard2022**
 
 ![alt text](https://github.com/rTiagoS/water-surface-object-detection/blob/main/images/wsod-ard-example.jpeg)
+
+
+### Método para coleta das imagens
+
+As imagens foram coletadas a partir do cruzamento de combinações de strings em repositórios online de imagens e vídeos, conforme ilustra a figura abaixo.
+
+![alt text](https://github.com/rTiagoS/water-surface-object-detection/blob/main/images/wsod-ard-example.jpeg)
+
+As imagens foram todas anotadas por meio da ferramenta roboflow.
+
+![alt text](https://github.com/rTiagoS/water-surface-object-detection/blob/main/images/wsod-ard-example.jpeg)
+
+## Transfer Learning com YOLOv5
