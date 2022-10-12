@@ -99,11 +99,11 @@ Observe que é utilizado o peso wsodd-arv.pt localizado em `/weights/wsodd-arv.p
 
 Ilustração da câmera USB plugada no dispositivo Jetson:
 
-![alt text](https://github.com/rTiagoS/water-surface-object-detection/blob/main/images/roboflow_annotations.png)
+![alt text](https://github.com/rTiagoS/water-surface-object-detection/blob/main/images/perifericos.jpeg)
 
 
 ### 3.3. Simulação e prototipagem do YOLOv5 com Jetson Nano
 
 Por último, a partir do momento em que o modelo integrado na plataforma embarcada Jetson Nano iniciou o processo de detecção de objetos a partir da captura de imagens com a câmera USB, vídeos de objetos localizados em superfícies de rios da Amazônia foram transmitidos em um monitor de modo que pudessem simular, em tempo real de execução, a captura de uma sequência imagens em um cenário real, conforme ilustra a figura a seguir.
 
-![alt text](https://github.com/rTiagoS/water-surface-object-detection/blob/main/images/roboflow_annotations.png)
+![alt text](https://github.com/rTiagoS/water-surface-object-detection/blob/main/images/results-simulacao-visualizaacao.png)
