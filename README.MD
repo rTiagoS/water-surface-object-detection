@@ -8,7 +8,7 @@ O dataset está disponível publicamente por meio deste link: [WSOD-ARD Download
 
 > *password*: **wsodard2022**
 
-![alt text](https://github.com/rTiagoS/water-surface-object-detection/blob/main/images/wsod-ard-example.jpeg)
+![alt text](https://github.com/rTiagoS/water-surface-object-detection/blob/main/images/mosaic_img.png)
 
 
 ### Método para coleta das imagens
